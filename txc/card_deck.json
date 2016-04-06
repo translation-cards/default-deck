@@ -3,6 +3,7 @@
   "readme": "default content to be built into distributable apk",
   "locked": false,
   "timestamp": 1459982688,
+  "publisher":"org.innovation.unhcr",
   "id": "org.innovation.unhcr.txc-default-deck",
   "source_language": "en",
   "languages": [
