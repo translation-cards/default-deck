@@ -2,6 +2,8 @@
   "license-url": "http://creativecommons.org/licenses/by/4.0/",
   "readme": "default content to be built into distributable apk",
   "locked": false,
+  "timestamp": 1459982688,
+  "id": "org.innovation.unhcr.txc-default-deck",
   "source_language": "en",
   "languages": [
     {
