@@ -1,0 +1,9 @@
+#IDE's
+.idea
+*iml
+
+#Apple Turds
+.DS_Store
+
+#Editor backups
+*~
