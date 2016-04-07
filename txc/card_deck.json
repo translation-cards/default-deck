@@ -136,117 +136,117 @@
       "iso_code": "ps",
       "cards": [
         {
-          "dest_txt": "پي دي جبه باندي پوهيږي",
+          "dest_txt": "تاسي په دغه ژبه پوهيږئ؟",
           "card_label": "Do you understand this language?",
           "dest_audio": "GQ16-ps.mp3"
         },
         {
-          "dest_txt": "که تاسو علميت يا معلومات تکرارول غواړي، نو ماله اشاره يا نښه راکولے شي",
+          "dest_txt": "که تاسي غواړئ چه دغه معلومات تکرار سي نو ماته اشاره وکړئ.",
           "card_label": "If you want the information repeated you can signal to me",
           "dest_audio": "G21-ps.mp3"
         },
         {
-          "dest_txt": "سته نامه سه ده",
+          "dest_txt": "ستا نوم څه دۍ؟",
           "card_label": "What is your name?",
           "dest_audio": "GQ1-ps.mp3"
         },
         {
-          "dest_txt": "د کوم ځګي نه راغلے يي",
+          "dest_txt": "ته د کوم ځای څخه راغلي يې؟",
           "card_label": "Where do you come from?",
           "dest_audio": "GQ2-ps.mp3"
         },
         {
-          "dest_txt": "د سو کالو يي",
+          "dest_txt": "ته د څوکالو يئ؟",
           "card_label": "How old are you?",
           "dest_audio": "GQ3-ps.mp3"
         },
         {
-          "dest_txt": "د ټبر سومره کسان يا بنيادمان تاسو په سفر کښي يي",
+          "dest_txt": "په دغه سفر کي ستاسي سره د کورنئ څو تنه شته؟",
           "card_label": "How many people are traveling in your family group?",
           "dest_audio": "GQ4-ps.mp3"
         },
         {
-          "dest_txt": "إحرصوا على أن يعرف أطفالكم مكان تواجد أسرتهم في كل الأوقات",
+          "dest_txt": "پاملرنه وکړئ چي ستاسي ماشومان هر وخت په دې خبر وي چي ستاسي د کورنئ ډله چيري اوسيږي",
           "card_label": "Make sure your children know where the family group are at all times",
           "dest_audio": "FL8-ps.mp3"
         },
         {
-          "dest_txt": "تاسو سره اوبه او خوراک شته",
+          "dest_txt": "تاسي اوبه او خواړه تر لاسه کړي دي؟",
           "card_label": "Have you received food and water?",
           "dest_audio": "SQ1-ps.mp3"
         },
         {
-          "dest_txt": "د قهوه يا چائے تمبوک يا خيمه دلته کښې موجود ده",
+          "dest_txt": "د قهوې يا چايو خيمه هلته ده.",
           "card_label": "The hot tea/coffee tent is over there",
           "dest_audio": "S6-ps.mp3"
         },
         {
-          "dest_txt": "تشنابونه يا توائيلت دلته کښي موجود دي",
+          "dest_txt": "تشنابونه هلته دي.",
           "card_label": "The toilets are over there",
           "dest_audio": "S3-ps.mp3"
         },
         {
-          "dest_txt": "دالته کښي معزورو د پاره تشناب شته",
+          "dest_txt": "دلته د معيوبينو لپاره تشنابونه سته.",
           "card_label": "There are disabled access toilets",
           "dest_audio": "S4-ps.mp3"
         },
         {
-          "dest_txt": "تاسو سره دارو درمل شته?",
+          "dest_txt": "تاسي طبي مرسته تر لاسه کړيده؟",
           "card_label": "Have you received medical care?",
           "dest_audio": "SQ2-ps.mp3"
         },
         {
-          "dest_txt": "تاسو ته ضرورت شته چي د شپي پاتي کيدو د پاره يو ځايي",
+          "dest_txt": "تاسي د نن شپې د تيرولو لپاره کوم ځای ته اړتيا لرئ؟",
           "card_label": "Do you need somewhere to stay tonight?",
           "dest_audio": "SQ3-ps.mp3"
         },
         {
-          "dest_txt": "که چري تاسو دالته کښي شپه تيرول غواړي نو دا بغير پيسو يا مفت دي",
+          "dest_txt": "که تاسي غواړئ چي نن شپه همدلته تيره کړئ، تاسي په وړيا توگه پاته کيدلای شئ.",
           "card_label": "If you would like to stay here tonight it is free to do so",
           "dest_audio": "S14-ps.mp3"
         },
         {
-          "dest_txt": "تاسو په لاس کړي دي شړي او ګرمي جامي?",
+          "dest_txt": "تاسي کمپلونه يا تودې جامي تر لاسه کړي دي؟",
           "card_label": "Did you receive a blanket or warm clothing?",
           "dest_audio": "SQ4-ps.mp3"
         },
         {
-          "dest_txt": "شړي دالته کښي تقسيميږي",
+          "dest_txt": "هلته تاسي ته کمپلونه در کول کيږي.",
           "card_label": "Blankets are distributed over there",
           "dest_audio": "S27-ps.mp3"
         },
         {
-          "dest_txt": "تاسو دالته کښي د ماشومانو د پاره جامي او بوټان په لاس کولے شي",
+          "dest_txt": "هلته تاسي د ماشومانو لپاره کالي او بوټونه ترلاسه کولای سئ.",
           "card_label": "You can collect children's clothes and shoes over there",
           "dest_audio": "S12-ps.mp3"
         },
         {
-          "dest_txt": "ستاسو يخني کيږي?",
+          "dest_txt": "ستاسي ساړه کيږي؟",
           "card_label": "Are you feeling very cold?",
           "dest_audio": "SQ5-ps.mp3"
         },
         {
-          "dest_txt": "تاسو دالته کښي په ګرمو اوبو باندي تشناب کولے شي",
+          "dest_txt": "تاسي هلته تود شاور کولای سئ.",
           "card_label": "You can take a warm shower over there",
           "dest_audio": "S5-ps.mp3"
         },
         {
-          "dest_txt": "که تاسو چري خبري اتري کول غواړي د سفر باره کښي نو مونږ د يو ترجان بندوبست کولے شو",
+          "dest_txt": "که تاسي غواړئ چه دکومي ستونزي او اندېښنې په اړه خبري وکړئ، موږ ژباړونکي درلودلای سو.",
           "card_label": "If you would like to talk about any problems or concerns we can arrange for a translator",
           "dest_audio": "X15-ps.mp3"
         },
         {
-          "dest_txt": "په ځاي کښي يو ميټنګ بندوبست اوکړي د خپلو ماشومانو او خاندان سره که چري ممکن شي تاسو بيل بيل يا يو بل نه لري شي.",
+          "dest_txt": "د خپلو ماشومانو او کورنئ سره د ملاقات کولو لپاره يو ځای و ټاکئ چه ديو اوبل څخه د ورکيدو په وخت کي تماس سره ونيسئ",
           "card_label": "Arrange a meeting point on this site with your children and family in case you get separated",
           "dest_audio": "FL9-ps.mp3"
         },
         {
-          "dest_txt": "که چري تاسو تا يو ماشوم ملاؤ شه چي ورک شوي وي، نو مهروباني اوکي چي دا رپورت کړي د ماشومانو يا خانداني سنتر ته.",
+          "dest_txt": "که تاسي يو ورک سوی ماشوم پيدا کړئ نو مهرباني وکړئ د ماشومانو او کورنيو مرکز ته خبر ور کړئ.",
           "card_label": "If you find a child who is lost please report them to the children and families' center",
           "dest_audio": "FL16-ps.mp3"
         },
         {
-          "dest_txt": "دلته کښي ازاد انترنت موجود دے",
+          "dest_txt": "دلته وړيا بي سيمه انټرنيټ شته.",
           "card_label": "There is free WIFI here",
           "dest_audio": "S1-ps.mp3"
         }
