@@ -31,7 +31,7 @@
           "dest_audio": "GQ1-ar.mp3"
         },
         {
-          "dest_txt": "كم يبلغ عدد الأشخاص المسافرين في مجموعتك؟",
+          "dest_txt": "من أي بلد أتيت؟",
           "card_label": "Where do you come from?",
           "dest_audio": "GQ2-ar.mp3"
         },
@@ -101,7 +101,7 @@
           "dest_audio": "S12-ar.mp3"
         },
         {
-          "dest_txt": "هل تشعرون ببرد شديد؟",
+          "dest_txt": "هل تشعرون بالبرد الشديد؟",
           "card_label": "Are you feeling very cold?",
           "dest_audio": "SQ5-ar.mp3"
         },
@@ -111,7 +111,7 @@
           "dest_audio": "S5-ar.mp3"
         },
         {
-          "dest_txt": "إن تريدون التحدث عن أي مشكلة أو أمر يثير القلق يمكننا أن نجد لكم مترجماً",
+          "dest_txt": "إذا أردتم التحدث عن أي مشكلة أو أمر يثير القلق يمكننا أن نجد لكم مترجماً",
           "card_label": "If you would like to talk about any problems or concerns we can arrange for a translator",
           "dest_audio": "X15-ar.mp3"
         },
@@ -121,7 +121,7 @@
           "dest_audio": "FL9-ar.mp3"
         },
         {
-          "dest_txt": "الرجاء التبليغ إذا وجدتم طفلاً ضائعاً إلى مركز الأسرة",
+          "dest_txt": "في حال صادفتم طفلاً تائهاً الرجاء تبليغ مركز الأسرة والأطفال",
           "card_label": "If you find a child who is lost please report them to the children and families' center",
           "dest_audio": "FL16-ar.mp3"
         },
@@ -166,7 +166,7 @@
           "dest_audio": "GQ4-ps.mp3"
         },
         {
-          "dest_txt": "دا يقيني کړي چي ماشومان تا دا علم وي چي کوم ځائي کښي هر سعت د خاندان غنډه موجود وي",
+          "dest_txt": "إحرصوا على أن يعرف أطفالكم مكان تواجد أسرتهم في كل الأوقات",
           "card_label": "Make sure your children know where the family group are at all times",
           "dest_audio": "FL8-ps.mp3"
         },
@@ -326,7 +326,7 @@
           "dest_audio": "SQ3-fa.mp3"
         },
         {
-          "dest_txt": "می توانید به صورت رایگان امشب اینجا اقامت کنید",
+          "dest_txt": "إذا أردتم قضاء الليلة هنا يمكنكم ذلك مجاناً",
           "card_label": "If you would like to stay here tonight it is free to do so",
           "dest_audio": "S14-fa.mp3"
         },
