@@ -7,9 +7,11 @@
   "publisher" : "UNHCR Innovation",
   "id": "org.innovation.unhcr.txc-default-deck",
   "source_language": "en",
+  "source_language_name":"English",
   "languages": [
     {
       "iso_code": "ar",
+      "dest_language_name":"Arabic",
       "cards": [
         {
           "dest_txt": "هل تفهم هذه اللغة؟",
@@ -135,6 +137,7 @@
     },
     {
       "iso_code": "ps",
+      "dest_language_name":"Pashto",
       "cards": [
         {
           "dest_txt": "تاسي په دغه ژبه پوهيږئ؟",
@@ -260,6 +263,7 @@
     },
     {
       "iso_code": "fa",
+      "dest_language_name":"Farsi",
       "cards": [
         {
           "dest_txt": "آیا این زبان را متوجه می شوید؟",
